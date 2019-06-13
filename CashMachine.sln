@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashMachine", "CashMachine\CashMachine.csproj", "{07361A78-D58F-4E07-9A07-DF2911A05C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07361A78-D58F-4E07-9A07-DF2911A05C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07361A78-D58F-4E07-9A07-DF2911A05C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07361A78-D58F-4E07-9A07-DF2911A05C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07361A78-D58F-4E07-9A07-DF2911A05C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

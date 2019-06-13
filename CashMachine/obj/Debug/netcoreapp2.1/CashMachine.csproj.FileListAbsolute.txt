@@ -1,0 +1,11 @@
+/Users/sergejmurskij/Desktop/Documents/RiderProjects/CashMachine/CashMachine/bin/Debug/netcoreapp2.1/CashMachine.deps.json
+/Users/sergejmurskij/Desktop/Documents/RiderProjects/CashMachine/CashMachine/bin/Debug/netcoreapp2.1/CashMachine.runtimeconfig.json
+/Users/sergejmurskij/Desktop/Documents/RiderProjects/CashMachine/CashMachine/bin/Debug/netcoreapp2.1/CashMachine.runtimeconfig.dev.json
+/Users/sergejmurskij/Desktop/Documents/RiderProjects/CashMachine/CashMachine/bin/Debug/netcoreapp2.1/CashMachine.dll
+/Users/sergejmurskij/Desktop/Documents/RiderProjects/CashMachine/CashMachine/bin/Debug/netcoreapp2.1/CashMachine.pdb
+/Users/sergejmurskij/Desktop/Documents/RiderProjects/CashMachine/CashMachine/obj/Debug/netcoreapp2.1/CashMachine.csprojAssemblyReference.cache
+/Users/sergejmurskij/Desktop/Documents/RiderProjects/CashMachine/CashMachine/obj/Debug/netcoreapp2.1/CashMachine.csproj.CoreCompileInputs.cache
+/Users/sergejmurskij/Desktop/Documents/RiderProjects/CashMachine/CashMachine/obj/Debug/netcoreapp2.1/CashMachine.AssemblyInfoInputs.cache
+/Users/sergejmurskij/Desktop/Documents/RiderProjects/CashMachine/CashMachine/obj/Debug/netcoreapp2.1/CashMachine.AssemblyInfo.cs
+/Users/sergejmurskij/Desktop/Documents/RiderProjects/CashMachine/CashMachine/obj/Debug/netcoreapp2.1/CashMachine.dll
+/Users/sergejmurskij/Desktop/Documents/RiderProjects/CashMachine/CashMachine/obj/Debug/netcoreapp2.1/CashMachine.pdb
